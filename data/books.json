@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "available": true,
+    "borrower": null,
+    "dueDate": null
+  },
+  {
+    "id": "2",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "Non-Fiction",
+    "available": true,
+    "borrower": null,
+    "dueDate": null
+  }
+]

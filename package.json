@@ -1,9 +1,9 @@
 {
   "name": "scd-lab-8",
   "version": "1.0.0",
-  "main": "events.js",
+  "main": "books.js",
   "scripts": {
-    "test": "jest"    
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
