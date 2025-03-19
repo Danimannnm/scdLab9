@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Birthday",
+    "category": "Home"
+  },
+  {
+    "id": 2,
+    "name": "Scrum Meeting",
+    "category": "Work"
+  }
+]
